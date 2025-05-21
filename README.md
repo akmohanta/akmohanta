@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Anup Kumar Mohanta!
 
-<!--
-**akmohanta/akmohanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with over 7 years of experience in backend development, cloud-native technologies, and infrastructure automation. I specialize in Python, Kubernetes, Linux, and networking, and I enjoy solving complex problems through clean and scalable code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- **Languages**: Python, Bash, Go,
+- **Cloud & DevOps**: Kubernetes, Docker, Helm, Rancher
+- **Infrastructure**: Linux, Networking, System Design
+- **CI/CD**: GitHub Actions, Jenkins
+- **Tools**: Git,
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ak-mohanta)
+- [Email](mailto:anupkmohanta1994@gmail.com)
+
+---
+
+Thanks for visiting!
