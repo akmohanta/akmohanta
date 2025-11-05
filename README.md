@@ -1,16 +1,17 @@
 # Hi, I'm Anup Kumar Mohanta!
 
-I'm a Software Engineer with over 7 years of experience in backend development, cloud-native technologies, and infrastructure automation. I specialize in Python, Kubernetes, Linux, and networking, and I enjoy solving complex problems through clean and scalable code.
+I am an experienced software engineer with over 8.5 years of expertise in Python, Kubernetes, and networking. Proficient in microservices, cloud technologies, DevOps, Linux programming, software architecture, database management, and API development.
+
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Languages**: Python, Bash, Go,
-- **Cloud & DevOps**: Kubernetes, Docker, Helm, Rancher
+- **Languages**: Python, Bash, Go
+- **Cloud & DevOps**: AWS, Terraform, Kubernetes, Docker, Helm, Rancher
 - **Infrastructure**: Linux, Networking, System Design
-- **CI/CD**: GitHub Actions, Jenkins
-- **Tools**: Git,
+- **CI/CD**: GitHub Actions, Jenkins, ArgoCD, Airflow
+- **Tools**: Git, Vault, Grafana, Copilot
 ---
 
 ## 📫 Let's Connect
