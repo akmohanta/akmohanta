@@ -7,9 +7,11 @@ I am an experienced software engineer with over 8.5 years of expertise in Python
 
 ## 🚀 Tech Stack
 
-- **Languages**: Python, Bash, Go
-- **Cloud & DevOps**: AWS, Terraform, Kubernetes, Docker, Helm, Rancher
+- **Languages**: Python, Java, Bash, Go
+- **Cloud**: AWS, Lambda, S3, EC2, AWS API Gateway, Terraform, Cloud watch
+- **DevOps**: Terraform, Kubernetes, Docker, Helm, Rancher
 - **Infrastructure**: Linux, Networking, System Design
+- **Databases**: MySQL, sqllite, MongoDB, AWS DynamoDB
 - **CI/CD**: GitHub Actions, Jenkins, ArgoCD, Airflow
 - **Tools**: Git, Vault, Grafana, Copilot
 ---
