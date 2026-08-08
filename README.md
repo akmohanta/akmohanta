@@ -1,19 +1,17 @@
 # Hi, I'm Anup Kumar Mohanta!
 
-I am an experienced software engineer with over 8.5 years of expertise in Python, Kubernetes, and networking. Proficient in microservices, cloud technologies, DevOps, Linux programming, software architecture, database management, and API development.
-
+I’m a Senior Backend and DevOps Engineer with 9+ years of experience designing, building and scaling high-performance cloud-native systems. Combining technical leadership with a strong background in microservices, Cloud DevOps, and CI/CD, I focus on optimizing infrastructure and standardizing deployments across organizations. My day-to-day toolkit centres around Python (Advanced), Go, AWS, Kubernetes and lately around AI agents. I also spend time architecting data layers, ensuring our relational and NoSQL databases are optimized for low-latency and high throughput. While I enjoy high-level system design and microservices architecture, I love working in low-level engineering like production performance tuning and low-latency API orchestration. Currently, I’m applying these optimisation principles to the AI space, building reliable autonomous AI agents/workflows and MCP servers.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Languages**: Python(primary), Java, Bash, Go
-- **Cloud**: AWS, Lambda, S3, EC2, AWS API Gateway, Terraform, Cloud watch
-- **DevOps**: Terraform, Kubernetes, Docker, Helm, Rancher
-- **Infrastructure**: Linux, Networking, System Design
-- **Databases**: MySQL, sqllite, MongoDB, AWS DynamoDB, Redis
-- **CI/CD**: GitHub Actions, Jenkins, ArgoCD, Airflow
-- **Tools**: Git, Vault, Grafana, Copilot
+- **Languages & Frameworks**: Python (Advanced, Asyncio), Go, Java, Linux Shell Scripting | FastAPI, Flask, Django
+- **Cloud & Infrastructure**: AWS (VPC, EC2, S3, Lambda, API Gateway, DynamoDB), GCP (Vertex AI, Cloud Run), Terraform (IaC)
+- **Databases & Event Streaming**: PostgreSQL, MongoDB, Redis, Elasticsearch | Apache Kafka, RabbitMQ, AWS Kinesis, SQS
+- **DevOps & Orchestration**: Docker, Kubernetes (K8s), Helm Charts, Rancher, Argo CD, CI/CD (GitHub Actions, Jenkins), Airflow
+- **AI Ecosystem**: Google ADK, Claude SDK, MCP server development, Copilot Studio, GCP vertex AI
+
 ---
 
 ## 📫 Let's Connect
